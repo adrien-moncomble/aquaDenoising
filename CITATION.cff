@@ -1,0 +1,71 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: aquaDenoising
+message: >-
+  AI-enhancement of in situ liquid phase STEM video for
+  automated quantification of nanoparticles growth
+type: software
+authors:
+  - given-names: Adrien
+    family-names: Moncomble
+    email: adrien.moncomble@u-paris.fr
+    affiliation: >-
+      Université Paris Cité, Laboratoire Matériaux et
+      Phénomènes Quantiques, CNRS, F-75013 Paris, France
+    orcid: 'https://orcid.org/0009-0001-2517-554X'
+  - given-names: Damien
+    family-names: Alloyeau
+    affiliation: >-
+      Université Paris Cité, Laboratoire Matériaux et      
+      Phénomènes Quantiques, CNRS, F-75013 Paris, France
+  - given-names: Maxime
+    family-names: Moreaud
+    affiliation: >-
+      IFP Energies nouvelles, Rond-point de l'échangeur de
+      Solaize BP 3 69360 Solaize, France
+  - given-names: Abdelali
+    family-names: Khelfa
+    affiliation: >-
+      Université Paris Cité, Laboratoire Matériaux et      
+      Phénomènes Quantiques, CNRS, F-75013 Paris, France
+  - given-names: Guillaume
+    family-names: Wang
+    affiliation: >-
+      Université Paris Cité, Laboratoire Matériaux et      
+      Phénomènes Quantiques, CNRS, F-75013 Paris, France
+  - given-names: Nathaly
+    family-names: Ortiz-Peña
+    affiliation: >-
+      Université Paris Cité, Laboratoire Matériaux et      
+      Phénomènes Quantiques, CNRS, F-75013 Paris, France
+  - given-names: Hakim
+    family-names: Amara
+    affiliation: >-
+      Université Paris-Saclay, ONERA, CNRS, Laboratoire
+      d'étude des microstructures (LEM), F-92332 Châtillon,
+      France
+  - given-names: Riccardo
+    family-names: Gatti
+    affiliation: >-
+      Université Paris-Saclay, ONERA, CNRS, Laboratoire
+      d'étude des microstructures (LEM), F-92332 Châtillon,
+      France
+  - given-names: Romain
+    family-names: Moreau
+    affiliation: >-
+      Université Paris-Saclay, ONERA, CNRS, Laboratoire
+      d'étude des microstructures (LEM), F-92332 Châtillon,
+      France
+  - given-names: Christian
+    family-names: Ricolleau
+    affiliation: >-
+      Université Paris Cité, Laboratoire Matériaux et
+      Phénomènes Quantiques, CNRS, F-75013 Paris, France
+  - given-names: Jaysen
+    family-names: Nelayah
+    affiliation: >-
+      Université Paris Cité, Laboratoire Matériaux et
+      Phénomènes Quantiques, CNRS, F-75013 Paris, France
+repository-code: 'https://github.com/adrien-moncomble/aquaDenoising'
